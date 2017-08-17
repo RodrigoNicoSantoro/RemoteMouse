@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RemoteMouse</string>
+    <string name="action_connect">Connect</string>
+</resources>
