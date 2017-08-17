@@ -10,3 +10,7 @@ Giving a presentation? Or watching an online movie? RemoteMouse makes it easy to
 * Connect via IP
 * Works under Wi-Fi
 * Compatible with Windows, Mac OSX, and Linux
+
+## Usage
+<img src="https://github.com/RodrigoNicoSantoro/RemoteMouse/blob/master/images/server.png?raw=true"/>
+  <img src="https://github.com/RodrigoNicoSantoro/RemoteMouse/blob/master/images/client.png?raw=true" width="350"/>
