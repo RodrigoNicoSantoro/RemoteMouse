@@ -11,6 +11,8 @@ Giving a presentation? Or watching an online movie? RemoteMouse makes it easy to
 * Works under Wi-Fi
 * Compatible with Windows, Mac OSX, and Linux
 
-## Usage
+## Usage:
+The server and the client must be connected to the same wifi network.
+
 <img src="https://github.com/RodrigoNicoSantoro/RemoteMouse/blob/master/images/server.png?raw=true"/>
-  <img src="https://github.com/RodrigoNicoSantoro/RemoteMouse/blob/master/images/client.png?raw=true" width="350"/>
+<img src="https://github.com/RodrigoNicoSantoro/RemoteMouse/blob/master/images/client.png?raw=true" width="350"/>
